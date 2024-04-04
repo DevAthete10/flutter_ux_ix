@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "553871643507",
+    "firebase_url": "https://app-de-notas-a75a9-default-rtdb.firebaseio.com",
+    "project_id": "app-de-notas-a75a9",
+    "storage_bucket": "app-de-notas-a75a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553871643507:android:f6c0a998b96cc36bdceb06",
+        "android_client_info": {
+          "package_name": "com.example.flutter_full_ux_ix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxTOwx2SANKRl1iMW0ADavaMB6ajLA1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

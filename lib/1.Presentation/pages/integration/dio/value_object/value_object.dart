@@ -1,0 +1,3 @@
+enum Opciones {
+  editar,crear
+}
