@@ -1,4 +1,4 @@
-  List<Map<String,dynamic>> uiScreen = [
+ List<Map<String,dynamic>> uiScreen = [
     {
       "nombre":"Prueba UI Screen",
       "route_app":"list_item",
@@ -122,6 +122,12 @@
     {
       "nombre":"Google Sign",
       "route_app":"google_sign",
+      "url_image":"",
+      "ejemplos":[]
+    },
+    {
+      "nombre":"Video + Image",
+      "route_app":"video_image",
       "url_image":"",
       "ejemplos":[]
     },

@@ -30,6 +30,7 @@ Map<String,Widget Function(BuildContext)> routes = {
   "notification_local":(_) => const NotificationLocalPage(),
   "isar":(_) => const IsarPage(),
   "google_sign":(_) => const GoogleSignPage(),
+  "video_image":(_) => const VideoImagePickerPage(),
   // ----- ------
   // Full Application
   "uber":(_) => const UberPage(),

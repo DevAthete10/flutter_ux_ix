@@ -1,6 +1,3 @@
-
-
-
 export 'package:flutter_full_ux_ix/1.Presentation/pages/list_item_page.dart';
 export 'package:flutter_full_ux_ix/1.Presentation/pages/menu_page.dart';
 
@@ -22,6 +19,7 @@ export 'package:flutter_full_ux_ix/1.Presentation/pages/integration/ft_chart/cha
 export 'package:flutter_full_ux_ix/1.Presentation/pages/integration/notification_local/notification_local_page.dart';
 export 'package:flutter_full_ux_ix/1.Presentation/pages/integration/isar/isar_page.dart';
 export 'package:flutter_full_ux_ix/1.Presentation/pages/integration/google_sign/google_sign_page.dart';
+export 'package:flutter_full_ux_ix/1.Presentation/pages/integration/video_image/video_image_picker_page.dart';
 
 // LIST ANIMATION
 export 'package:flutter_full_ux_ix/1.Presentation/pages/list_animation/drawer/drawer_animation_page.dart';
