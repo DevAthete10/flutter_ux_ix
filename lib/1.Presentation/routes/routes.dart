@@ -12,6 +12,8 @@ Map<String,Widget Function(BuildContext)> routes = {
   "dropdown_1_concept":(_) => const DropDown1ConceptPage(),
   "navigatorbar_1_concept":(_) => const NavigatorBar1ConceptPage(),
   "navigatorbar_2_concept":(_) => const NavigatorBar2ConceptPage(),
+  "grid_1_concept":(_) => const Grid1ConceptPage(),
+  "grid_2_concept":(_) => const Grid2ConceptPage(),
   // ----- ------
   // List Animation
   "drawer_animation":(_) => const DrawerAnimationPage(),

@@ -221,6 +221,23 @@
         },      
       ]
     },
+    {
+      "nombre":"Grid",
+      "route_app":"list_item",
+      "url_image":"",
+      "ejemplos":[
+        {
+          "nombre":"Concept 1",
+          "route_app":"grid_1_concept",
+           "url_image":""
+        },      
+        {
+          "nombre":"Concept 2",
+          "route_app":"grid_2_concept",
+           "url_image":""
+        },      
+      ]
+    },
 
   ];
 

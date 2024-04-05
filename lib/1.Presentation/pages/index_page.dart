@@ -34,6 +34,8 @@ export 'package:flutter_full_ux_ix/1.Presentation/pages/material_kit/appbars/app
 export 'package:flutter_full_ux_ix/1.Presentation/pages/material_kit/dropdown/dropdown_1_concept.dart';
 export 'package:flutter_full_ux_ix/1.Presentation/pages/material_kit/navigatorbar/navigatorbar_1_concept.dart';
 export 'package:flutter_full_ux_ix/1.Presentation/pages/material_kit/navigatorbar/navigatorbar_2_concept.dart';
+export 'package:flutter_full_ux_ix/1.Presentation/pages/material_kit/grid/grid_1_concept_page.dart';
+export 'package:flutter_full_ux_ix/1.Presentation/pages/material_kit/grid/grid_2_concept_page.dart';
 
 // UI SCREEN
 export 'package:flutter_full_ux_ix/1.Presentation/pages/ui_screen/onboarding/onboarding_1_concept.dart';

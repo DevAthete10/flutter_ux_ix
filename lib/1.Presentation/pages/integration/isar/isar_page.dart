@@ -23,7 +23,7 @@ class _HttpPageState extends State<IsarPage> {
   Widget build(BuildContext context) {
     service.watchDB();
     return Scaffold(
-        appBar: AppBar(title: const Text("Todo SqFlite"),
+        appBar: AppBar(title: const Text("Notas Isar"),
         leading: IconButton(icon: const Icon(Icons.arrow_back),onPressed: () {
           Navigator.pop(context);
         },),
