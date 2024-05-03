@@ -114,7 +114,7 @@
       "ejemplos":[]
     },
     {
-      "nombre":"Isar",
+      "nombre":"Isar CRUD",
       "route_app":"isar",
       "url_image":"",
       "ejemplos":[]

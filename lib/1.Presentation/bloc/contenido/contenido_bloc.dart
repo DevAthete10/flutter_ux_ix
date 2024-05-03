@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'package:bloc/bloc.dart';
-import 'package:meta/meta.dart';
 import 'package:flutter_full_ux_ix/1.Presentation/view_models/view_models.dart';
 import 'package:flutter_full_ux_ix/2.Domain/models/contenidoModel.dart';
 
